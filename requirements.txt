@@ -1,0 +1,7 @@
+fastparquet
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+tqdm
