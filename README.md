@@ -107,6 +107,8 @@ physiomio/
 └── ...                   # Additional patients (up to patient48)
 ```
 
+The total number of files is 329. The dataset size is 4.4GB.
+
 ### 🔍 Data Format
 
 - **File format**: `.parquet` (Apache Parquet)
@@ -116,6 +118,9 @@ physiomio/
   - `healthy_arm/`: 1-2 baseline sessions from unaffected arm
   - `impaired_arm/`: Multiple sessions during rehabilitation
     (typically 1-12 sessions per patient)
+  - Each session contains 16 continuous segments, i.e. recordings of a gesture,
+    whereas the gesture is indicated in the column `movement_type`. The order
+    of gestures is always the same. The first gesture is "Rest".
 
 ---
 
