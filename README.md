@@ -10,6 +10,8 @@
 **PhysioMio: Bilateral and Longitudinal HD-sEMG Dataset of 16 Hand Gestures from
 48 Stroke Patients**
 
+*Julian Ilg, Alexander C. R. Oldemeier, Marie Fieweger, Luca Deuschel, Peter Rieckmann, Peter Young, Sabine Krause, Tim C. Lueth*
+
 [📄 Paper](#-paper) •
 [📊 Download Data](#-download) •
 [🚀 Getting Started](#-getting-started) •
@@ -168,7 +170,6 @@ Please cite our paper if you use this dataset in your research.
 ## 🏆 Acknowledgments
 
 - 🏥 **Medical Team**:
-  - InnKlinikum Altötting und Mühldorf, Germany
   - Medical Park Loipl, Bischofswiesen, Germany
   - Medical Park Bad Feilnbach Reithofpark, Bad Feilnbach, Germany
 - 💰 **Funding**: This research was conducted in the context of the
