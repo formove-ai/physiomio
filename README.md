@@ -128,23 +128,19 @@ The total number of files is 329. The dataset size is 4.4GB.
 
 ## 📄 Paper
 
-> **TODO(aol-work)**: Update link once the paper has been accepted.
-
-📖 **[Read the full paper](https://www.nature.com/sdata/)** *(Link to be updated)*
+📖 **[Read the full paper](https://www.nature.com/articles/s41597-026-06557-0)**
 
 ### 📝 Citation (to be updated)
 
-> **TODO(aol-work)**: Update citation details once the paper has been accepted.
-
-<!-- ```bibtex
-@article{physiomio2025,
+```bibtex
+@article{physiomio2026,
   title={PhysioMio: A Longitudinal HD-sEMG Dataset for Stroke Rehabilitation Research},
-  author={[Julian Ilg, Alexander Oldemeier, Marie Fieweger, Luca Deuschel, Peter Rieckmann, Peter Young, Sabine Krause, Tim C. Lueth ]},
-  journal={[Nature Datasets]},
-  year={2025},
+  author={[Julian Ilg, Alexander C.R. Oldemeier, Marie Fieweger, Luca Deuschel, Peter Rieckmann, Peter Young, Sabine Krause, Tim C. Lueth ]},
+  journal={[Scientific data 13]},
+  year={2026},
   doi={[DOI]}
 }
-``` -->
+```
 
 ---
 
